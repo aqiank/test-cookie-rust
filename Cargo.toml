@@ -1,0 +1,12 @@
+[package]
+name = "test-cookie-rust"
+version = "0.1.0"
+authors = ["Jacky Boen"]
+
+[dependencies]
+iron = "*"
+cookie = "*"
+mount = "*"
+router = "*"
+staticfile = "*"
+time = "*"
